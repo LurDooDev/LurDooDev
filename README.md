@@ -18,7 +18,7 @@
 
 - _Twitter : @RealTechorny_
 
-- _Instagram : @_bccsdev_
+- Instagram : @_bccsdev
 
 <!---
 Techorny/Techorny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
