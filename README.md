@@ -8,7 +8,7 @@
 
 🌱 __I’m currently learning__
 
-- _Web Application development and some game development.
+- Web Application development and some game development.
 
 💞️ __I’m looking to collaborate__
 
