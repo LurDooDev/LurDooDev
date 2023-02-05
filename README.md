@@ -1,10 +1,10 @@
-👋 __Hi, I’m @LurDooDev
+👋 __Hi, I’m @LurDooDev__
 
-- _Just someone who do code for a living._
+- Just someone who do code for a living.
 
 👀 __I’m interested in__
 
-- _3D Game development._
+- 3D Game development.
 
 🌱 __I’m currently learning__
 
